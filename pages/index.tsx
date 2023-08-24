@@ -12,7 +12,7 @@ export const getStaticProps: GetStaticProps = async () => {
       published: false,
       author: {
         name: "Nikolas Burk",
-        email: "burk@prisma.io",
+        email: "burk@prisma.io", 
       },
     },
   ]
